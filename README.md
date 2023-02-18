@@ -41,7 +41,7 @@ First, set up your RG and VM in Azure. Use a Windows 10 VM. You'll only need one
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we'll need to get an activation key for, and download and install Nessus Essentials on your physical computer. Click through all prompts and follow the activation steps. Use this link to navigate to get your activation code.
+Next, we'll need to get an activation key for, and download and install Nessus Essentials on your physical computer. Click through all prompts and follow the activation steps. Use <a href="https://www.tenable.com/products/nessus/nessus-essentials">this link</a> to navigate to get your activation code. 
 </p>
 <br />
 
