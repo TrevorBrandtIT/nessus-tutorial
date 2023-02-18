@@ -10,23 +10,22 @@ This tutorial outlines the use and implementation of Nessus.<br />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Nessus Essentials Activation Code
+- Deprecated Version of Firefox
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Setting up our resources in Azure.
-- Ensuring connectivity between the Client and Domain Controller.
-- Installing Active Directory.
-- Creating an Admin and Normal User Account within AD.
-- Joining a Client to our Domain.
-- Setting up Remote Desktop for non-administrative users on the Client
-- Creating 10,000 users and logging in with one of them.
+- Downloading and installing Nessus Essentials.
+- Ensuring connectivity with the VM.
+- Creating, configuring, and inspecting noncredentialed scans.
+- Creating, configuring and inspecting credentialed scans.
+- Installing a deprecated Firefox version.
+- Remediating sample vulnerabilities.
 
 <h2>Deployment and Configuration Steps</h2>
 
